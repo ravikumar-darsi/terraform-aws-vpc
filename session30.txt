@@ -1,0 +1,18 @@
+1. create VPC
+2. create igw and attach
+3. create all subnets
+4. create route tables
+5. create routes
+6. associate with subnets
+7. create eip
+8. create nat
+9. add nat gateway route in private and database subnets
+10. peering connection
+11. routes
+
+
+common tags
+Project = roboshop
+Terraform = true
+Environment = dev
+Name = something
